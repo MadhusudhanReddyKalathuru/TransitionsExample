@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TransitionsExample</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="RadioButton">Radio Button</string>
 </resources>
